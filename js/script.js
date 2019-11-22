@@ -1,1 +1,9 @@
-console.log(100);
+function addNumders() {
+    for (var i = 1; i < 101; i++) {
+        if (i % 2 === 0) {
+            console.log(i);
+        }
+    }
+}
+
+addNumders();
