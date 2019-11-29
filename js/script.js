@@ -3,6 +3,7 @@ var b = 90;
 var c = 9092;
 var d = 800;
 var e = 290;
+var f = 319;
 
 for(var j = a; j < b; j++) {
     if(j === c) {
@@ -11,6 +12,8 @@ for(var j = a; j < b; j++) {
         console.log(d);
     } else if (j === e) {
         console.log(290);
+    } else if (j === f) {
+        console.log(319);
     }
 }
 
