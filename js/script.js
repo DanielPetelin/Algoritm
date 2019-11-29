@@ -1,12 +1,12 @@
 var a = 39;
 var b = 90;
-var c = 90;
-var d = 89;
+var c = 9092;
+var d = 800;
 
 for(var j = a; j < b; j++) {
-    if(j = c) {
+    if(j === c) {
         console.log(c);
-    } else if (j = d){
+    } else if (j === d){
         console.log(d);
     } else {
         console.log(89);
