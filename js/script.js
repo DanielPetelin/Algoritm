@@ -1,7 +1,11 @@
 var a = 39;
 var b = 90;
+var c = 49;
 
 for(var j = a; j < b; j++) {
+    if(j = c) {
+        console.log('c');
+    }
     console.log(j);
 }
 
