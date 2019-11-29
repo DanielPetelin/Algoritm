@@ -4,7 +4,7 @@ var c = 49;
 
 for(var j = a; j < b; j++) {
     if(j = c) {
-        console.log('c');
+        console.log();
     }
     console.log(j);
 }
