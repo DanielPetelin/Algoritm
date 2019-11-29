@@ -14,6 +14,8 @@ for(var j = a; j < b; j++) {
         console.log(290);
     } else if (j === f) {
         console.log(319);
+    } else {
+        console.log('no matches');
     }
 }
 
